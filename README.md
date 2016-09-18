@@ -1,6 +1,7 @@
 # PONY.TOWN Client For Windows
 
 [![Build Status](https://travis-ci.org/Codebreaker0/PONY.TOWN-Client.svg?branch=master)](https://travis-ci.org/Codebreaker0/PONY.TOWN-Client)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 The goal of this project is to give you a desktop application for 
 the Game/Community website [Pony Town](https://pony.town/) and have it
