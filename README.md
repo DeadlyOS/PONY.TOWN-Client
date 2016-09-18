@@ -10,12 +10,12 @@ The goal of this project is to give you a desktop application for the Game/Commu
 ## The Game
 The entire game is written in [TypeScript](http://www.typescriptlang.org/), a typed superset of JavaScript that compiles to plain JavaScript. Server side code is running on [Node.js](https://nodejs.org/) server with WebSockets for communication. User interface is built using [Angular.js](https://angularjs.org/) framework and the game itself is using WebGL for rendering graphics. 
 
-## Contact Codebreaker
+## Contact
 <b>Codebreaker0</b><br />
 Client Developer<br />
 [GitHub](http://github.com/codebreaker0) | [Discord](http://bit.do/CanterlotNightclub)
 
-## PonyTown The Team
+## The PonyTown Team
 <b>Agamnentzar</b><br />
 Designer, Programmer, Artist<br />
 [deviantart](http://agamnentzar.deviantart.com/) | [tumblr](http://agamnentzar.tumblr.com/)
