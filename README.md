@@ -9,8 +9,8 @@ The goal of this project is to give you a desktop application for the Game/Commu
 The entire game is written in [TypeScript](http://www.typescriptlang.org/), a typed superset of JavaScript that compiles to plain JavaScript. Server side code is running on [Node.js](https://nodejs.org/) server with WebSockets for communication. User interface is built using [Angular.js](https://angularjs.org/) framework and the game itself is using WebGL for rendering graphics. 
 
 ## The Team
-Agamnentzar
-Designer, Programmer, Artist
+<b>Agamnentzar</b><br />
+Designer, Programmer, Artist<br />
 [deviantart](http://agamnentzar.deviantart.com/) | [tumblr](http://agamnentzar.tumblr.com/)
 
 Shino
