@@ -1,1 +1,3 @@
 # PONY.TOWN-Client
+
+[LICENSE]: LICENSE
