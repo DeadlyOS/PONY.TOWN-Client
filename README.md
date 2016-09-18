@@ -13,22 +13,22 @@ The entire game is written in [TypeScript](http://www.typescriptlang.org/), a ty
 Designer, Programmer, Artist<br />
 [deviantart](http://agamnentzar.deviantart.com/) | [tumblr](http://agamnentzar.tumblr.com/)
 
-Shino
-Artist, Animator
+<b>Shino</b><br />
+Artist, Animator<br />
 [deviantart](http://shinodage.deviantart.com/)
 
-ChiraChan
-Artist
+<b>ChiraChan</b><br />
+Artist<br />
 [deviantart](http://chiramii-chan.deviantart.com/)
 
-Velenor
-Artist, Animator
+<b>Velenor</b><br />
+Artist, Animator<br />
 [deviantart](http://velenor.deviantart.com/)
 
-Disastral
-Artist
+<b>Disastral</b><br />
+Artist<br />
 [tumblr](http://askdisastral.tumblr.com/)
 
-CyberPon3
-Programmer
+<b>CyberPon3</b><br />
+Programmer<br />
 [tumblr](http://cyberpon3.deviantart.com/)
