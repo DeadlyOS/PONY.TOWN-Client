@@ -1,3 +1,1 @@
-# PONY.TOWN-Client
-
-[LICENSE]: LICENSE
+# PONY.TOWN Client For Windows
