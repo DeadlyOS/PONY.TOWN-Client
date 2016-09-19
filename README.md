@@ -1,4 +1,4 @@
-![](https://pony.town/images/logo.png)
+![](https://github.com/Codebreaker0/PONY.TOWN-Client/raw/master/logo.png)
 # Client For Windows
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
