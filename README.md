@@ -1,4 +1,5 @@
-# PONY.TOWN Client For Windows
+![](https://pony.town/images/logo.png)
+# Client For Windows
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
